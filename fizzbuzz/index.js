@@ -1,5 +1,5 @@
 // try to FizzBuzz
-const number = -321;
+const number = -321; // please enter a number of 1-100 and integer. 
 OutputFizzBuzz(number);
 
 /**
